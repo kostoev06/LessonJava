@@ -10,7 +10,7 @@ public class Human {
     }
 
     void printNameAndSurname() {
-        System.out.println(name + surname);
+        System.out.println("Name: " + name + ", Surname: " + surname);
     }
 
 }
