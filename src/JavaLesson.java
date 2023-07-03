@@ -30,7 +30,6 @@ public class JavaLesson {
 //                System.out.println(i);
 //            }
 //            i++;
-
 //        }
 
         Human mans = new Human("Mans", "Nams", 14);
