@@ -34,6 +34,7 @@ public class JavaLesson {
 
         Human mans = new Human("Mans", "Nams", 14);
 
+        mans.printNameAndSurname();
 
 
     }
