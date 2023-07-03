@@ -37,5 +37,6 @@ public class JavaLesson {
         mans.printNameAndSurname();
 
 
+
     }
 }
